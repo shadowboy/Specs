@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary  = 'CCBReader for CocosBuilder 2.1.x.'
   s.homepage = 'https://github.com/shadowboy/CCBReader'
   s.author   = {'Andy Cho' => '001sd@126.com'}
-  s.source   = { :git => 'https://github.com/tchaikov/CCBReader.git', :commit => 'e656dd710e85db6c5fa7a2515550197a54b7e16f' }
+  s.source   = { :git => 'https://github.com/tchaikov/CCBReader.git', :commit => '4c10a3f1e64efc58ad718161312fa95e343593de' }
   s.source_files = 'CCBReader/**/*.{h,m}', 'CCControlExtension/**/*.{h,m}','CCScrollView/*.{h,m}','SSZipArchive/**/*.{h,m,c}'
   s.public_header_files = 'CCBReader/*.h', 'CCControlExtension/**/*.h', 'CCScrollView/*.h', 'SSZipArchive/*.h'
   s.requires_arc = false
