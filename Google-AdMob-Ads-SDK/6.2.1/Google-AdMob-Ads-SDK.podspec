@@ -13,7 +13,7 @@ LICENSE
   }
   s.author = 'Google Inc.'
   s.source = { :http => "http://dl.google.com/googleadmobadssdk/googleadmobadssdkios.zip" }
-  s.platform = :ios
+  s.platform = :ioså
 
   s.preserve_paths = 'GoogleAdMobAdsSdkiOS-6.2.1'
   s.source_files = 'GoogleAdMobAdsSdkiOS-6.2.1/*.h'
